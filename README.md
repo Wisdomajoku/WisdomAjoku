@@ -1,6 +1,6 @@
 <h1>Hi, I'm Wisdom! <br/><a href="https://github.com/WisdomAjoku7">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> </h1>
 
-<h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> - [Web Traffic Analysis using Splunk Siem](https://github.com/WisdomAjoku7/Web-Traffic-Analysis-using-Splunk-Siem) </b>
 - <b> - [Login Security  Analysis and Visualization Dashboard using Splunk Siem](https://github.com/WisdomAjoku7/Login-Analysis-and-Visualization-Dashboard-using-Splunk-Siem) </b>
