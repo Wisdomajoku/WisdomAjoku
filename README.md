@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wisdom! <br/><a href="https://github.com/WisdomAjoku7">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/wisdomaj/"> </h1>
+<h1>Hi, I'm Wisdom! <br/><a href="https://www.linkedin.com/in/wisdomaj/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/wisdomaj/"> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
