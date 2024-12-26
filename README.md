@@ -12,4 +12,5 @@
 <h2> 🤳 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wisdomaj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wisdomajoku7@gmail.com)
 
