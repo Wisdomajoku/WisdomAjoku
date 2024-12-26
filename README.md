@@ -5,9 +5,12 @@
 
 - <b> - [Web Traffic Analysis using Splunk Siem](https://github.com/WisdomAjoku7/Web-Traffic-Analysis-using-Splunk-Siem) </b>
 - <b> - [Login Security  Analysis and Visualization Dashboard using Splunk Siem](https://github.com/WisdomAjoku7/Login-Analysis-and-Visualization-Dashboard-using-Splunk-Siem) </b>
-- <b> - [Malicious Email Simulation and Analysis](https://github.com/WisdomAjoku7/Malicious-Email-Simulation)
+- <b> - [Malicious Email Simulation and Analysis](https://github.com/WisdomAjoku7/Malicious-Email-Simulation) </b>
 
 <h1>Non-Technical Projects</h1>
+<b><a href="https://github.com/WisdomAjoku7/T-Mobile-Data-Breach-2023-">T-Mobile Data Breach of 2023</a></b>
+<strong><a href="https://github.com/WisdomAjoku7/Ivanti-VPN-Attack-Case-Study">Ivanti VPN Attack Case Study</a></strong>
+
 
 <h2>I'm currently working on </h2>
 
