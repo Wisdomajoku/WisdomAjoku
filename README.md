@@ -9,7 +9,10 @@
 
 <h1>Non-Technical Projects</h1>
 <b><a href="https://github.com/WisdomAjoku7/T-Mobile-Data-Breach-2023-">T-Mobile Data Breach of 2023</a></b>
-<strong><a href="https://github.com/WisdomAjoku7/Ivanti-VPN-Attack-Case-Study">Ivanti VPN Attack Case Study</a></strong>
+
+<b><a href="https://github.com/WisdomAjoku7/Ivanti-VPN-Attack-Case-Study">Ivanti VPN Attack Case Study</a></b>
+
+
 
 
 <h2>I'm currently working on </h2>
